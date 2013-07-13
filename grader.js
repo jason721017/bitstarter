@@ -5,7 +5,6 @@ Uses commander.js and cheerio. Teaches command line application development
 and basic DOM parsing.
 
 References:
-
  + cheerio
    - https://github.com/MatthewMueller/cheerio
    - http://encosia.com/cheerio-faster-windows-friendly-alternative-jsdom/
